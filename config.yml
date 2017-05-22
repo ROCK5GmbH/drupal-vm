@@ -1,0 +1,7 @@
+---
+
+# use composer 
+drupal_build_makefile: false
+drupal_build_composer_project: false
+drupal_build_composer: true
+drupal_core_path: "{{ drupal_composer_install_dir }}/web"
