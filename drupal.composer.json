@@ -26,10 +26,13 @@
         "drupal/devel": "1.x-dev",
 		"drupal/search_api": "1.1",
 		"drupal/inline_entity_form": "1.0-beta1",
+		"drupal/entity": "1.0-alpha4",
 		"drupal/ief_table_view_mode": "2.x-dev",
 		"drupal/auto_entitylabel": "2.0-beta1",
 		"drupal/reference_table_formatter": "1.x-dev",
 		"drupal/backup_migrate": "4.0-alpha2",
+		"drupal/content_access": "1.x-dev",
+		"drupal/login_destination": "1.x-dev",
 		"backupmigrate/core": "dev-master",
 		"psr/log": "dev-master",
 		"drupal/bootstrap": "*"
