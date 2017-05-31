@@ -33,7 +33,7 @@
 		"drupal/backup_migrate": "4.0-alpha2",
 		"drupal/content_access": "1.x-dev",
 		"drupal/login_destination": "1.x-dev",
-		"backupmigrate/core": "dev-master",
+		"drupal/backup_migrate": "4.x-dev",
 		"psr/log": "dev-master",
 		"drupal/bootstrap": "*"
     },
