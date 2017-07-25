@@ -37,6 +37,8 @@
 		"drupal/cer": "4.0-alpha2",
 		"drupal/views_field_view": "1.0-beta2",
 		"drupal/entity_reference_views_select": "1.1",
+		"drupal/computed_field": "2.0-alpha3",
+		"drupal/autosave_form": "1.x-dev",
 		"psr/log": "dev-master",
 		"drupal/bootstrap": "*"
     },
