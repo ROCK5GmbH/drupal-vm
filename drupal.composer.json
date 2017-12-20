@@ -39,7 +39,8 @@
 		"drupal/computed_field": "2.0-alpha3",
 		"drupal/autosave_form": "1.x-dev",
 		"psr/log": "dev-master",
-		"drupal/bootstrap": "*"
+		"drupal/bootstrap": "*",
+        "drupal/views_data_export": "^1.0"
     },
     "replace": {
         "drupal/drupal": "*"
